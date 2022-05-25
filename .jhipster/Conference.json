@@ -1,0 +1,21 @@
+{
+  "microserviceName": "testProject",
+  "clientRootFolder": "testProject",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "location",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "infinite-scroll",
+  "name": "Conference",
+  "changelogDate": "20220525151930"
+}
